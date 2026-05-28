@@ -1,1 +1,2 @@
-# plant-leaf-prediction-system
+# Plant 🌱 Disease 🐛 Detection 🔎
+deploy model : https://plantdisease.streamlit.app/
